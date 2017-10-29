@@ -13,9 +13,9 @@ and Communication Technologies for Development) at CSE.
 	<div class="panel-heading">Get Involved</div>
 	<div class="panel-body">
 		<ul>
-			<li><a href="docs/ICTD_Open_Session_Research_Brief_Aug2016.pdf">Join the mailing list TODO</a></li>
-			<li><a href="docs/Mobile_Money_Security_Research_Brief_Aug2016.pdf">Check out the calendar TODO</a></li>
-                        <li>Interested in speaking? Email admin@change.washington.edu</li>
+			<li><a href="https://changemm.cs.washington.edu/mailman/listinfo/change">Join the mailing list</a></li>
+			<li><a href="https://calendar.google.com/calendar?cid=dXdjaGFuZ2VAZ21haWwuY29t">Check out the calendar</a></li>
+            <li>Interested in speaking? Email admin@change.washington.edu</li>
 		</ul>
 	</div>
 </div>
@@ -37,8 +37,6 @@ and Communication Technologies for Development) at CSE.
 {% endfor %}
 </ul>
 {% assign numposts = site.posts | size %}
- 
+
 <p><a href="{{ site.base }}/blog/">Older posts&hellip;</a></p>
 
-
- 
