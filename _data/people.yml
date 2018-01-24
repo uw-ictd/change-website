@@ -3,125 +3,282 @@ faculty:
         display_name: "Richard Anderson"
         webpage: "http://www.cs.washington.edu/people/faculty/anderson"
         role: faculty
+        affiliation: "CSE"
         img: richard_anderson.jpg
-        bio: |
-            Richard is a Professor of Computer Science and Engineering, where he has been on the faculty since 1986, with brief leaves to [Indian Institute of Science](http://www.iisc.ernet.in/), [Microsoft Research](http://research.microsoft.com), and [PATH](//path.org). His research has focussed on computing for the developing world since 2005, when he became involved with the Digital Study Hall project. In 2009, Richard spent a sabbatical year working with the [Digital Health Solutions](http://sites.path.org/hmis/) group at PATH, a global health NGO based in Seattle. This opportunity allowed him to increase his efforts on applying computing technologies to challenges in global health. While working with PATH, he co-founded the Projecting Health project, which uses the Community-Led Video Education model to promote healthy practices in rural areas in India. Back at University of Washington, he is now overseeing the efforts of the Open Data Kit project. His research interests in ICTD include technologies for behavior change communication, improving tools to support the use of data in strengthening health systems, and digital financial services.
-
     kurtis:
         display_name: "Kurtis Heimerl"
         webpage: "https://www.eecs.berkeley.edu/~kheimerl/"
         role: faculty
+        affiliation: "CSE"
         img: kurtis_heimerl.jpg
-        bio: |
-            Kurtis is a new Assistant Professor of Computer Science and Engineering. He received his PhD from the University of California, Berkeley where he worked on Commmunity Cellular Networks: low-cost, low-power, locally owned cellular infrastructure. After Berkeley he co-founded [Endaga](http://endaga.com) to commercialize the work on Community Cellular and joined Facebook to continue that effort. Outside of connectivity he has worked broadly in the field of ICTD, including projects in health, education, and alternative forms of access. He will be joining the ICTD group in the fall of 2016.
-
-    Franzi:
-        display_name: "Franzi Roesner"
-        webpage: "http://www.franziroesner.com/"
-        role: faculty
-        img: franzi_roesner.jpg
-        bio: |
-            Franzi is an assistant professor in Computer Science and Engineering at the University of Washington. Her research focuses on improving computer security and privacy for end users of existing and emerging technologies, including the web, smartphones, and emerging augmented reality platforms. Her work on application permissions in modern operating systems (including smartphones) received the Best Practical Paper Award at the 2012 IEEE Symposium on Security and Privacy, her work on security and privacy for augmented reality was featured on the cover of the Communications of the ACM magazine, and her defense for tracking by social media widgets on the web was incorporated into the Electronic Frontier Foundation’s Privacy Badger tool.
-
-    Yoshi:
-        display_name: "Tadayoshi Kohno"
-        webpage: "http://homes.cs.washington.edu/~yoshi/"
-        role: faculty
-        img: tadayoshi_kohno.jpg
-        bio: |
-            Yoshi is the Short-Dooley Professor of Computer Science & Engineering at the University of Washington and an Adjunct Associate Professor in the UW Information School.  His research focuses on helping protect the security, privacy, and safety of users of current and future generation technologies. Kohno is the recipient of an Alfred P. Sloan Research Fellowship, a U.S. National Science Foundation CAREER Award, and a Technology Review TR-35 Young Innovator Award.  Kohno has authored more than a dozen award papers, has presented his research to the U.S. House of Representatives, was profiled in the NOVA ScienceNOW “Can Science Stop Crime?” documentary, and is a past chair of the USENIX Security Symposium.  Kohno is also a member of the U.S. Government’s Defense Science Study Group, the National Academies Forum on Cyber Resilience, the IEEE Center for Secure Design, and the USENIX Security Steering Committee.
-
     Ruth:
         display_name: "Ruth Anderson"
         webpage: "http://homes.cs.washington.edu/~rea/"
         role: faculty
+        affiliation: "CSE"
         img: ruth_anderson.jpg
-        bio: |
-            Ruth Anderson is a Lecturer in Computer Science and Engineering. She received her PhD from UW CSE and was a faculty member at the University of Virginia from 2000-2005. Ruth has worked on several projects in ICTD from a system for tracking mini-buses in Kyrgyzstan to a low-cost ultrasound for use by midwives in Uganda. She has been actively involved with ICTD education, co-leading the undergraduate ICTD capstone course multiple times as well as other related seminars.
+    tom_anderson:
+        display_name: "Tom Anderson"
+        affiliation: "CSE"   
+    anita_verna_crofts:
+        display_name: "Anita Verna Crofts"
+        affiliation: "MCDM"
+    walter_curioso:
+        display_name: "Walter Curioso"
+        affiliation: "BHI"
+    karen_fisher:
+        display_name: "Karen Fisher"
+        affiliation: "iSchool"
+    batya_friedman:
+        display_name: "Batya Friedman"
+        affiliation: "iSchool"
+    sherrilynne_fuller:
+        display_name: "Sherrilynne Fuller"
+        affiliation: "BHI"
+    ricardo_gomez:
+        display_name: "Ricardo Gomez"
+        affiliation: "TASCHA, iSchool"
+    andrew_gordon:
+        display_name: "Andrew Gordon"
+        affiliation: "TASCHA, Evans"
+    ed_lazowska:
+        display_name: "Ed Lazowska"
+        affiliation: "CSE"
+    bill_lober:
+        display_name: "Bill Lober"
+        affiliation: "GH, BHI, BNHS"
+    beth_kolko:
+        display_name: "Beth Kolko"
+        affiliation: "HCDE"
+    rob_nathan:
+        display_name: "Rob Nathan"
+        affiliation: "Radiology"
+    judy_wasserheit:
+        display_name: "Judy Wasserheit"
+        affiliation: "SPH"
 
-    Jake:
-        display_name: "Jake Kendall"
-        role: faculty
-        img: jake_kendall.jpg
-        bio: |
-            Jake is a visiting researcher in ICTD focusing on fintech innovations for developing countries. He is also the Director of the Digital Financial Services Innovation Lab ([DFS Lab](http://dfslab.net)) housed at Caribou Digital. The DFSLab engages in seed stage investing and rapid prototyping of internally-generated ideas to create fintech innovations that will profitably bring households in developing countries from the cash economy into the digital financial realm. Formerly Jake was Deputy Director of Research and Emerging Technologies within the Financial Services for the Poor Team at the Gates Foundation where his team helped create the global data architecture for tracking financial inclusion.
+affiliated_faculty:
+    tapan:
+        display_name: "Tapan Parikh"
+        affiliation: "Cornell Tech Information Science"
+        webpage: "http://tap2k.org/"
 
-
-postdoc:
-    Shrirang:
-        display_name: "Shrirang Mare"
-        role: postdoc
-        img: shrirang_mare.jpg
-        bio: |
-            Shrirang Mare received his PhD from Dartmouth College, Hanover where he developed authentication techniques for personal computing devices (desktops and smartphones) levaraging wrist wearables. Before Dartmouth he worked at IBM India for two years and at Indian Institue of Science (IISc), Banagalore for one year. He received his Bachelors in Mechanical Engineering from BITS-Pilani, India in 2006. He is interested in security and privacy issues in healthcare and digital financial services, and HCI. His current research focuses on usable authentication methods for smartphones.
-coordinator:
+staff:
     Jennifer:
         display_name: "Jennifer Webster"
         role: coordinator
+        affiliation: "CSE"
         img: jen_webster.jpg
-        bio: |
-            Jennifer joins the DFS research group after having completed her Ph.D. in history at the University of Washington. She holds a master’s degree in International Studies—Comparative Religion from the University of Washington and a bachelor’s degree in Biology from Reed College. Jennifer’s dissertation, “Toward a Sacred Topography of Central Asia: Shrines, Pilgrimage, and Gender in Kyrgyzstan,” investigated the evolution of Islamic practices at several major shrines in Kyrgyzstan from the 1950s to the present. Jennifer has designed and taught several courses at the University of Washington, Western Washington University, the Evergreen State College, and Seattle University.
+    melody_clark:
+        display_name: "Melody Clark"
+        affiliation: "TASCHA"
+    chris_coward:
+        display_name: "Chris Coward"
+        affiliation: "TASCHA"
+    jan_flowers:
+        display_name: "Jan Flowers"
+        affiliation: "BNHS, GH"
+    becky_matter:
+        display_name: "Becky Matter"
+        affiliation: "CTDS"
+    rebecca_sears:
+        display_name: "Rebecca Sears"
+        affiliation: "TASCHA"
+    edgar_sioson:
+        display_name: " Edgar Sioson"
+        affiliation: "IHME"
+    lori_stevens:
+        display_name: "Lori Stevens"
+        affiliation: "IT"
+    joe_sullivan:
+        display_name: "Joe Sullivan"
+        affiliation: "TASCHA"
 
-grad:
-    fahad:
+researchers:
+    waylon_brunette:
+        display_name: "Waylon Brunette"
+        affiliation: "CSE"
+    fahad_pervaiz:
         display_name: "Fahad Pervaiz"
         webpage: "https://homes.cs.washington.edu/~fahadp/"
-        role: grad
-        img: fahad_pervaiz.jpg
-    sam:
+        affiliation: "CSE"
+    sam_castle:
         display_name: "Sam Castle"
         webpage: "http://samcastle.com/"
-        role: grad
-        img: sam_castle.png
-    samia:
+        affiliation: "CSE"
+    samia_ibtasam:
         display_name: "Samia Ibtasam"
         webpage: "http://samiaibtasam.com/"
-        role: grad
-        img: samia_ibtasam.jpg
-    aditya:
+        affiliation: "CSE"
+    aditya_vashistha:
         display_name: "Aditya Vashistha"
         webpage: "http://www.adityavashistha.com/"
-        role: grad
-        img: aditya_vashistha.jpg
-    trevor:
+        affiliation: "CSE"
+    trevor_perrier:
         display_name: "Trevor Perrier"
         webpage: "http://homes.cs.washington.edu/~tperrier/"
-        role: grad
-        img: trevor_perrier.jpg
-    kushal:
+        affiliation: "CSE"
+    kushal_shah:
         display_name: "Kushal Shah"
         webpage: "https://in.linkedin.com/in/kushalns5"
-        role: grad
-        img: kushal_shah.jpg
-    matt:
+        affiliation: "iSchool"
+    matt_johnson:
         display_name: "Matt Johnson"
         webpage: "https://homes.cs.washington.edu/~matt9j/"
-        role: grad
-        img: matt_johnson.jpg
-    esther:
+        affiliation: "CSE"
+    esther_jang:
         display_name: "Esther Jang"
         webpage: "https://homes.cs.washington.edu/~infrared/"
-        role: grad
-        img: esther_jang.jpg
-    naveena:
+        affiliation: "CSE"
+    naveena_karusala:
         display_name: "Naveena Karusala"
-        role: grad
-        img: naveena_karusala.jpg
+        affiliation: "CSE"
+    philip_garrison:
+        display_name: "Philip Garrison"
+        affiliation: "CSE"
 
-undergrad:
-    arjun:
-        display_name: "Arjun Lalwani"
-        role: undergrad
-        img: arjun_lalwani.jpg
-    emily:
-        display_name: "Emily Leland"
-        role: undergrad
-        img: Emily_Leland.jpg
-    katherine:
-        display_name: "Katherine Van Koevering"
-        role: undergrad
-        img: katherine_van_koevering.jpg
-    sarah:
-        display_name: "Sarah Yu"
-        role: undergrad
-        img: sarah_yu.jpg
+alumni:
+    rohit_chaudhri:
+        display_name: "Rohit Chaudhri"
+        affiliation: "CSE"
+    nicola_dell:
+        display_name: "Nicola Dell"
+        affiliation: "CSE"
+    colin_dixon:
+        display_name: "Colin Dixon"
+        affiliation: "CSE"
+    chad_driesbach:
+        display_name: "Chad Driesbach"
+        affiliation: "HCDE"
+    mayank_goel:
+        display_name: "Mayank Goel"
+        affiliation: "CSE"
+    alexis_hope:
+        display_name: "Alexis Hope"
+        affiliation: "CSE"
+    bo_quin:
+        display_name: "Bo Qin"
+        affiliation: "CSE"
+    emma_rose:
+        display_name: "Emma Rose"
+        affiliation: "HCDE"
+    ginger_ruddy:
+        display_name: "Ginger R. Ruddy"
+        affiliation: "SPH"
+    karen_saville:
+        display_name: "Karen Saville"
+        affiliation: "HCDE"
+    amit_saxena:
+        display_name: "Amit Saxena"
+        affiliation: "Chemistry"
+    rebecca_walton:
+        display_name: "Rebecca Walton"
+        affiliation: "HCDE"
+    danny_anderson:
+        display_name: "Danny Anderson"
+        affiliation: "CSE"
+    guy_bordelon:
+        display_name: "Guy Bordelon"
+        affiliation: "CSE"
+    neha_guar:
+        display_name: "Neha Gaur"
+        affiliation: "CSE"
+    wayne_gerard:
+        display_name: "Wayne Gerard"
+        affiliation: "CSE"
+    beth_gusenius:
+        display_name: "Beth Gusenius"
+        affiliation: "CSE"
+    matthew_hicks:
+        display_name: "Matthew Hicks"
+        affiliation: "Informatics"
+    james_hu:
+        display_name: "James Hu"
+        affiliation: "CSE"
+    mitchell_ishimitsu:
+        display_name: "Mitchell Ishimitsu"
+        affiliation: "CSE"
+    charlotte_robinson:
+        display_name: "Charlotte Robinson"
+        affiliation: "CSE"
+    pratik_prasad:
+        display_name: "Pratik Prasad"
+        affiliation: "CSE"
+    saleema_amershi:
+         display_name: "Saleema Amershi"
+         affiliation: "CSE"
+    yaw_anokwa:
+         display_name: "Yaw Anokwa"
+         affiliation: "CSE"
+    david_broderick:
+         display_name: "David Broderick"
+         affiliation: "CSE"
+    brian_derenzi:
+         display_name: "Brian DeRenzi"
+         affiliation: "CSE"
+    leah_findlater:
+         display_name: "Leah Findlater"
+         affiliation: "CSE"
+    krzysztof_gajos:
+         display_name: "Krzysztof Gajos"
+         affiliation: "CSE"
+    sunil_garg:
+         display_name: "Sunil Garg"
+         affiliation: "CSE"
+    carl_hartung:
+         display_name: "Carl Hartung"
+         affiliation: "CSE"
+    eric_johnson:
+         display_name: "Erica Johnson"
+         affiliation: "CSE"
+    neal_lesh:
+         display_name: "Neal Lesh"
+         affiliation: "CSE"
+    natalie_linnell:
+         display_name: "Natalie Linnell"
+         affiliation: "CSE"
+    caitie_lustig:
+         display_name: "Caitie Lustig"
+         affiliation: "CSE"
+    joe_michels:
+         display_name: "Joe Michels"
+         affiliation: "bSchool"
+    eleanor_orourke:
+         display_name: "Eleanor O’Rourke"
+         affiliation: "CSE"
+    cynthia_putnam:
+         display_name: "Cynthia Putnam"
+         affiliation: "HCDE"
+    joyojeet_pal:
+         display_name: "Joyojeet Pal"
+         affiliation: "iSchool"
+    laura_pina:
+         display_name: "Laura R. Pina"
+         affiliation: "CSE"
+    anthony_poon:
+         display_name: "Anthony Poon"
+         affiliation: "CSE"
+    mazel_raza:
+         display_name: "Mazel K. Raza"
+         affiliation: "BHI"
+    odina_salihbaeva:
+         display_name: "Odina Salihbaeva"
+         affiliation: "CSE"
+    yael_schwartzman:
+         display_name: "Yael Schwartzman"
+         affiliation: "CSE"
+    clint_tseng:
+         display_name: "Clint Tseng"
+         affiliation: "CSE"
+    erik_turnquist:
+         display_name: "Erik Turnquist"
+         affiliation: "CSE"
+    heather_underwood:
+         display_name: "Heather Underwood"
+         affiliation: "CSE"
+
+in_memory:
+    gaetano_borriello:
+        display_name: "Gaetano Borriello"
+        affiliation: "CSE"
+    
