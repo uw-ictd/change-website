@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Join Change
+title: Participate
 ---
 
 Change is a group of faculty, students, and staff at the University of
@@ -10,17 +10,25 @@ in low-income regions.
 
 <h2>Subscribe</h2>
 
-If you are interested in participating, please subscribe to our
-<a href="https://changemm.cs.washington.edu/mailman/listinfo/change"> mailing list </a>.
-It’s where the majority of our community participates.
+If you are interested in participating, please subscribe to our <a
+href="https://changemm.cs.washington.edu/mailman/listinfo/change">
+mailing list </a>.  It’s where the majority of our community
+participates and where you will see announcements for upcoming events.
 
-Please also subscribe to the calendar and our blog RSS feed.
+Please also subscribe to the calendar (<a href="https://calendar.google.com/calendar/ical/uwchange%40gmail.com/public/basic.ics">iCal</a>,
+<a href="https://calendar.google.com/calendar/embed?src=uwchange%40gmail.com&ctz=America%2FLos_Angeles">https</a>)
+and our blog RSS feed.
 
 <h2>Seminar and Classes</h2>
 
 We have a weekly Change Seminar on Tuesdays open to the public. If you
 are a UW student, you can register for CSE 590 C1 to get credit for
 attending.
+
+<b>Interested in speaking?</b> Email admin@change.washington.edu
+
+<h2>Social</h2>
+Follow us on twitter <a href="https://twitter.com/uwchange">@uwchange</a>
 
 <h2>Share the Change Community</h2>
 
@@ -34,13 +42,3 @@ logo.
 
 <a href="https://calendar.google.com/calendar?cid=dXdjaGFuZ2VAZ21haWwuY29t">View in Google Calendar</a>
 
-<div class="panel panel-primary">
-	<div class="panel-heading">Get Involved</div>
-	<div class="panel-body">
-		<ul>
-			<li></li>
-			<li></li>
-            <li>Interested in speaking? Email admin@change.washington.edu</li>
-		</ul>
-	</div>
-</div>
