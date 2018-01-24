@@ -34,3 +34,13 @@ logo.
 
 <a href="https://calendar.google.com/calendar?cid=dXdjaGFuZ2VAZ21haWwuY29t">View in Google Calendar</a>
 
+<div class="panel panel-primary">
+	<div class="panel-heading">Get Involved</div>
+	<div class="panel-body">
+		<ul>
+			<li></li>
+			<li></li>
+            <li>Interested in speaking? Email admin@change.washington.edu</li>
+		</ul>
+	</div>
+</div>

@@ -1,5 +1,5 @@
 name: Change
-url: http://dfs.cs.washington.edu
+url: https://change.washington.edu
 
 exclude: [bibble, README.md, Makefile]
 
@@ -23,9 +23,17 @@ base: ''
 navigation:
     - title: Home
       link: /
-    - title: Background
-      link: /background.html
+    - title: About
+      link: /about.html
     - title: People
       link: /people.html
-    - title: Join
-      link: /join.html
+    - title: Participate
+      link: /participate.html
+
+# Sections on the "people" page.
+roles:
+    - {key: faculty, name: Faculty, display: full}
+    - {key: postdoc, name: Researchers, display: full}
+    - {key: students, name: Students, display: short}
+    - {key: alum, name: Alumni, display: short}
+    - {key: memory, name: "In Memory", display: full}
