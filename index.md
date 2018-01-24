@@ -2,12 +2,9 @@
 layout: default
 ---
 
-<h2>About</h2>
-Change is a cross-campus collaboration involving faculty and
-students from TASCHA (Technology and Social Change) at the iSchool,
-Global WACh and I-TECH (International Training and Education Center
-for Health) at the Department of Global Health, and ICTD (Information
-and Communication Technologies for Development) at CSE.
+<h2>About</h2> Change is an inter-departmental collaboration at the
+University of Washington exploring how technology can improve the
+lives of traditionally underserved populations.
 
 <h2>Participate</h2>
 <a href="https://changemm.cs.washington.edu/mailman/listinfo/change">Join the mailing list</a><br/>
