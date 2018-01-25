@@ -17,51 +17,75 @@ faculty:
         role: faculty
         affiliation: "CSE"
         img: ruth_anderson.jpg
-    tom_anderson:
-        display_name: "Tom Anderson"
-        affiliation: "CSE"   
-    anita_verna_crofts:
-        display_name: "Anita Verna Crofts"
-        affiliation: "MCDM"
-    walter_curioso:
-        display_name: "Walter Curioso"
-        affiliation: "BHI"
-    karen_fisher:
-        display_name: "Karen Fisher"
-        affiliation: "iSchool"
-    batya_friedman:
-        display_name: "Batya Friedman"
-        affiliation: "iSchool"
-    sherrilynne_fuller:
-        display_name: "Sherrilynne Fuller"
-        affiliation: "BHI"
-    ricardo_gomez:
-        display_name: "Ricardo Gomez"
-        affiliation: "TASCHA, iSchool"
-    andrew_gordon:
-        display_name: "Andrew Gordon"
-        affiliation: "TASCHA, Evans"
-    ed_lazowska:
-        display_name: "Ed Lazowska"
-        affiliation: "CSE"
-    bill_lober:
-        display_name: "Bill Lober"
-        affiliation: "GH, BHI, BNHS"
-    beth_kolko:
-        display_name: "Beth Kolko"
-        affiliation: "HCDE"
-    rob_nathan:
-        display_name: "Rob Nathan"
-        affiliation: "Radiology"
-    judy_wasserheit:
-        display_name: "Judy Wasserheit"
-        affiliation: "SPH"
+    Keshet:
+        display_name: "Keshet Ronen"
+        role: faculty
+        affiliation: "Global Health"
+        img: keshet_ronen.jpg
+    Lia:
+        display_name: "Lia Golden"
+        webpage: "http://www.internationalnursingprogram.org/lia-golden/"
+        role: faculty
+        affiliation: "Nursing"
+        img: lia_golden.jpg
 
 affiliated_faculty:
     tapan:
         display_name: "Tapan Parikh"
         affiliation: "Cornell Tech Information Science"
         webpage: "http://tap2k.org/"
+    tom_anderson:
+        display_name: "Tom Anderson"
+        webpage: "https://www.cs.washington.edu/people/faculty/tom"
+        affiliation: "CSE"   
+    anita_verna_crofts:
+        display_name: "Anita Verna Crofts"
+        webpage: "http://www.com.washington.edu/crofts/"
+        affiliation: "MCDM"
+    walter_curioso:
+        display_name: "Walter Curioso"
+        webpage: "http://faculty.washington.edu/wcurioso/"
+        affiliation: "BHI"
+    karen_fisher:
+        display_name: "Karen Fisher"
+        webpage: "https://ischool.uw.edu/people/faculty/profile/fisher"
+        affiliation: "iSchool"
+    batya_friedman:
+        display_name: "Batya Friedman"
+        webpage: "https://ischool.uw.edu/people/faculty/profile/batya"
+        affiliation: "iSchool"
+    sherrilynne_fuller:
+        display_name: "Sherrilynne Fuller"
+        webpage: "http://faculty.washington.edu/sfuller/"
+        affiliation: "BHI"
+    ricardo_gomez:
+        display_name: "Ricardo Gomez"
+        webpage: "https://ischool.uw.edu/people/faculty/profile/rgomez"
+        affiliation: "TASCHA, iSchool"
+    andrew_gordon:
+        display_name: "Andrew Gordon"
+        webpage: "https://evans.uw.edu/profile/gordon-a"
+        affiliation: "TASCHA, Evans"
+    ed_lazowska:
+        display_name: "Ed Lazowska"
+        webpage: "https://www.cs.washington.edu/people/faculty/lazowska/"
+        affiliation: "CSE"
+    bill_lober:
+        display_name: "Bill Lober"
+        webpage: "https://globalhealth.washington.edu/faculty/william-lober"
+        affiliation: "GH, BHI, BNHS"
+    beth_kolko:
+        display_name: "Beth Kolko"
+        webpage: "https://www.hcde.washington.edu/kolko"
+        affiliation: "HCDE"
+    rob_nathan:
+        display_name: "Rob Nathan"
+        webpage: "https://rad.washington.edu/radiology-personnel/ronathan/"
+        affiliation: "Radiology"
+    judy_wasserheit:
+        display_name: "Judy Wasserheit"
+        webpage: "http://sph.washington.edu/faculty/fac_bio.asp?url_ID=Wasserheit_Judith"
+        affiliation: "SPH"
 
 staff:
     Jennifer:
