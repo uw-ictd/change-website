@@ -96,27 +96,30 @@ staff:
     melody_clark:
         display_name: "Melody Clark"
         affiliation: "TASCHA"
+        img: melody_clark.png
     chris_coward:
         display_name: "Chris Coward"
         affiliation: "TASCHA"
+        img: chris_coward.jpg
     jan_flowers:
         display_name: "Jan Flowers"
         affiliation: "BNHS, GH"
+        img: jan_flowers.jpg
     becky_matter:
         display_name: "Becky Matter"
         affiliation: "CTDS"
+        img: becky_matter.jpg
     rebecca_sears:
         display_name: "Rebecca Sears"
         affiliation: "TASCHA"
-    edgar_sioson:
-        display_name: " Edgar Sioson"
-        affiliation: "IHME"
+        img: rebecca_sears.png
     lori_stevens:
         display_name: "Lori Stevens"
         affiliation: "IT"
     joe_sullivan:
         display_name: "Joe Sullivan"
         affiliation: "TASCHA"
+        img: joe_sullivan.png
 
 researchers:
     waylon_brunette:
@@ -192,6 +195,9 @@ alumni:
     karen_saville:
         display_name: "Karen Saville"
         affiliation: "HCDE"
+    edgar_sioson:
+        display_name: "Edgar Sioson"
+        affiliation: "IHME"
     amit_saxena:
         display_name: "Amit Saxena"
         affiliation: "Chemistry"
