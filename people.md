@@ -28,26 +28,6 @@ title: People
 
 <br style="clear:both">
 
-<h3>Affiliated Faculty</h3>
-<div style="padding-left:30px;">
-{% for role in site.data.people.affiliated_faculty %}
-      <dt class="person">
-	      {% assign person = role[1] %}
-	  {% if person.webpage %}
-	      <a href="{{ person.webpage |escape }}">
-	  {% endif %}
-	  {{ person.display_name }}
-      {% if person.affiliation %}({{ person.affiliation }}){% endif %}
-	  {% if person.webpage %}
-	      </a>
-	  {% endif %}
-	  <br />
-      </dt>
-{% endfor %}
-</div>
-
-<br style="clear:both">
-
 <h3>Staff</h3>
 <div style="padding-left:30px;">
 	{% for role in site.data.people.staff %}
@@ -76,6 +56,26 @@ title: People
 <h3>Current Students, Researchers, and Community Members</h3>
 <div style="padding-left:30px;">
 {% for role in site.data.people.researchers %}
+      <dt class="person">
+	      {% assign person = role[1] %}
+	  {% if person.webpage %}
+	      <a href="{{ person.webpage |escape }}">
+	  {% endif %}
+	  {{ person.display_name }}
+      {% if person.affiliation %}({{ person.affiliation }}){% endif %}
+	  {% if person.webpage %}
+	      </a>
+	  {% endif %}
+	  <br />
+      </dt>
+{% endfor %}
+</div>
+
+<br style="clear:both">
+
+<h3>Affiliated Faculty</h3>
+<div style="padding-left:30px;">
+{% for role in site.data.people.affiliated_faculty %}
       <dt class="person">
 	      {% assign person = role[1] %}
 	  {% if person.webpage %}
