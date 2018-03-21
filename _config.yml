@@ -37,3 +37,5 @@ roles:
     - {key: students, name: Students, display: short}
     - {key: alum, name: Alumni, display: short}
     - {key: memory, name: "In Memory", display: full}
+
+background: img/papua.jpg

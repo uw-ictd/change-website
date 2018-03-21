@@ -1,6 +1,6 @@
 ---
 layout: default
-title: People
+background: img/papua.jpg
 ---
 
 <h3>Faculty</h3>

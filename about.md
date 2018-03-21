@@ -1,8 +1,7 @@
 ---
 layout: default
+background: img/papua.jpg
 ---
-
-<h2>About</h2>
 
 Change is a cross-campus collaboration bringing together faculty and
 students from the University of Washington with the wider community to
@@ -12,10 +11,10 @@ to make connections between researchers, outside organizations, and
 the public to inspire the development of new capabilities aligned with
 the interests of those most in need.
 
-<h2>University Partners</h2>
+<h2>Organizers</h2>
 <h3>The Information School</h3>
 
-The <a href="http://tascha.uw.edu/">Technology & Social Change Group
+The <a href="http://tascha.uw.edu/">Technology &amp; Social Change Group
 (TASCHA)</a> at the University of Washington Information School
 explores the design, use, and effects of information and communication
 technologies in communities facing social and economic

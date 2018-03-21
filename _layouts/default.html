@@ -9,7 +9,7 @@
         <link rel="alternate" type="application/atom+xml" title="Atom"
             href="{{ site.base }}/blog/blog.xml">
     </head>
-    <body>
+    <body background="{{ page.background }}">
         <div class="container">
           <div class="header">
             <ul class="nav nav-pills pull-right">
@@ -22,7 +22,7 @@
                   </a>
                 </li>
               {% endfor %}
-            </ul>
+            </ul> 
             <a href="{{ site.base }}/">
                 <img src="{{ site.base }}/img/change-logo.png"
                     srcset="{{ site.base }}/img/dfs.png 2x"

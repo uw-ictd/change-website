@@ -1,12 +1,7 @@
 ---
 layout: default
-title: Participate
+background: img/papua.jpg
 ---
-
-Change is a group of faculty, students, and staff at the University of
-Washington who are exploring the role of information and communication
-technologies (ICTs) in improving the lives of underserved populations
-in low-income regions.
 
 <h2>Subscribe</h2>
 
@@ -37,8 +32,4 @@ of mouth. If you know others who would be interested in what we do,
 please point them to this website. If it helps, download and use our
 logo.
 
-<h2>Event Calendar</h2>
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=uwchange%40gmail.com&amp;color=%2323164E&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
-
-<a href="https://calendar.google.com/calendar?cid=dXdjaGFuZ2VAZ21haWwuY29t">View in Google Calendar</a>
 
