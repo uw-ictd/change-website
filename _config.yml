@@ -23,8 +23,6 @@ base: ''
 navigation:
     - title: Home
       link: /
-    - title: About
-      link: /about.html
     - title: People
       link: /people.html
     - title: Participate
@@ -38,4 +36,3 @@ roles:
     - {key: alum, name: Alumni, display: short}
     - {key: memory, name: "In Memory", display: full}
 
-background: img/papua.jpg
