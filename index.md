@@ -17,45 +17,49 @@ the interests of those most in need.
 <table border="0" cellpadding="5">
 <tr>
 
-<td align="center" valign="top" width="25%">
+<td align="center" valign="center" width="25%">
 <a href="http://tascha.uw.edu/"><img style="display:block;" src="img/tascha-logo.png" alt="Technology and Social Change Research Group" height="100"/></a>
+</td>
+<td align="center" valign="center" width="25%">
+<a href="http://depts.washington.edu/gwach/"><img style="display:block;" src="img/GlobalWACH-logo.jpg" alt="Global Women and Children" height="100"/></a>
+</td>
+<td align="center" valign="center" width="25%">
+<a href="https://www.go2itech.org/"><img style="display:block;" src="img/itech-logo.jpg" alt="International Training and Education Center for Health" height="100" /></a>
+</td>
+<td align="center" valign="center" width="25%">
+<a href="http://ictd.cs.washington.edu/"><img style="display:block;" src="img/ictd_main.png" alt="ICTD" width="100%" /></a>
 <br />
+</td>
+
+</tr>
+<tr>
+<td align="left" valign="top" width="25%">
 The <a href="http://tascha.uw.edu/">Technology &amp; Social Change Group
 (TASCHA)</a> at the University of Washington Information School
 explores the design, use, and effects of information and communication
 technologies in communities facing social and economic
-challenges. 
+challenges.
 </td>
-
-<td align="center" valign="top" width="25%">
-<a href="http://depts.washington.edu/gwach/"><img style="display:block;" src="img/GlobalWACH-logo.jpg" alt="Global Women and Children" height="100"/></a>
-<br />
+<td align="left" valign="top" width="25%">
 The mission of <a href="http://depts.washington.edu/gwach/">Global WACh</a>
 is to make scientific discoveries, cultivate leaders, and
 bridge disciplines to advance the tightly connected health and
 well-being of women, adolescents, and children.
 </td>
-
-<td align="center" valign="top" width="25%">
-<a href="https://www.go2itech.org/"><img style="display:block;" src="img/itech-logo.jpg" alt="International Training and Education Center for Health" height="100" /></a>
-<br />
+<td align="left" valign="top" width="25%">
 The <a href="https://www.go2itech.org/">International Training and
 Education Center for Health (I-TECH)</a> is a global network that
 works with local partners to develop skilled health care workers and
 strong national health systems in resource-limited countries. I-TECH
 promotes local ownership to sustain effective health systems.
 </td>
-
-<td align="center" valign="top" width="25%">
-<a href="http://ictd.cs.washington.edu/"><img style="display:block;" src="img/ictd_main.png" alt="ICTD" width="100%" /></a>
-<br />
+<td align="left" valign="top" width="25%">
 The <a href="http://ictd.cs.washington.edu/">Information and
 Communication Technology for Development (ICTD) Lab</a> in the Paul G. 
 Allen School of Computer Science is an
 inter-disciplinary group that explores how ICTs and Computer Science can improve the
 lives of underserved populations in low-income regions.
 </td>
-
 </tr>
 </table>
 
