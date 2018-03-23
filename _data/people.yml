@@ -1,4 +1,39 @@
-faculty:
+organizers:
+    richard:
+        display_name: "Richard Anderson"
+        webpage: "http://www.cs.washington.edu/people/faculty/anderson"
+        role: faculty
+        affiliation: "CSE"
+        img: richard_anderson.jpg
+    kurtis:
+        display_name: "Kurtis Heimerl"
+        webpage: "https://www.eecs.berkeley.edu/~kheimerl/"
+        role: faculty
+        affiliation: "CSE"
+        img: kurtis_heimerl.jpg
+    Keshet:
+        display_name: "Keshet Ronen"
+        role: faculty
+        affiliation: "Global Health"
+        img: keshet_ronen.jpg
+    Lia:
+        display_name: "Lia Golden"
+        webpage: "http://www.internationalnursingprogram.org/lia-golden/"
+        role: faculty
+        affiliation: "Nursing"
+        img: lia_golden.jpg
+    Jennifer:
+        display_name: "Jennifer Webster"
+        role: coordinator
+        affiliation: "CSE"
+        img: jen_webster.jpg
+    chris_coward:
+        display_name: "Chris Coward"
+        affiliation: "TASCHA"
+        img: chris_coward.jpg
+
+
+faculty: 
     richard:
         display_name: "Richard Anderson"
         webpage: "http://www.cs.washington.edu/people/faculty/anderson"
@@ -28,6 +63,7 @@ faculty:
         role: faculty
         affiliation: "Nursing"
         img: lia_golden.jpg
+
 
 affiliated_faculty:
     tapan:
