@@ -15,7 +15,7 @@ the interests of those most in need.
 <h2>Participating Organizations</h2>
 
 <div class="container-fluid">
-<table class="table">
+<table border="0">
 <tr>
 
 <td align="center" valign="center" width="25%">
