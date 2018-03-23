@@ -13,6 +13,7 @@ organizers:
         img: kurtis_heimerl.jpg
     Keshet:
         display_name: "Keshet Ronen"
+        webpage: "https://depts.washington.edu/kenyares/about/who-we-are/uw-affiliated-faculty-fellows-and-students-2/keshet-ronen-phd/"
         role: faculty
         affiliation: "Global Health"
         img: keshet_ronen.jpg
@@ -29,10 +30,11 @@ organizers:
         img: jen_webster.jpg
     chris_coward:
         display_name: "Chris Coward"
+        webpage: "http://tascha.uw.edu/people/chris-coward/"
         affiliation: "TASCHA"
         img: chris_coward.jpg
 
-
+#below are all deprecated but kept for posterity
 faculty: 
     richard:
         display_name: "Richard Anderson"

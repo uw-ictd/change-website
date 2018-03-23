@@ -14,7 +14,8 @@ the interests of those most in need.
 
 <h2>Participating Organizations</h2>
 
-<table border="0" cellpadding="5">
+<div class="container.fluid">
+<table border="0" cellpadding="5" class="table">
 <tr>
 
 <td align="center" valign="center" width="25%">
@@ -62,6 +63,7 @@ lives of underserved populations in low-income regions.
 </td>
 </tr>
 </table>
+</div>
 
 <h2>Event Calendar</h2>
 
