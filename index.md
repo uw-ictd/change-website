@@ -18,7 +18,7 @@ the interests of those most in need.
 <tr>
 
 <td align="center" valign="center" width="25%">
-<a href="http://tascha.uw.edu/"><img style="display:block;" src="img/tascha-logo.png" alt="Technology and Social Change Research Group" height="100"/></a>
+<a href="http://tascha.uw.edu/"><img style="display:block;" src="img/tascha-logo.png" alt="Technology &amp; Social Change Research Group" height="100"/></a>
 </td>
 <td align="center" valign="center" width="25%">
 <a href="http://depts.washington.edu/gwach/"><img style="display:block;" src="img/GlobalWACH-logo.jpg" alt="Global Women and Children" height="100"/></a>
