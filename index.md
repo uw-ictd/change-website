@@ -14,8 +14,8 @@ the interests of those most in need.
 
 <h2>Participating Organizations</h2>
 
-<div class="container.fluid">
-<table border="0" cellpadding="5" class="table">
+<div class="container-fluid">
+<table class="table">
 <tr>
 
 <td align="center" valign="center" width="25%">
@@ -71,9 +71,10 @@ lives of underserved populations in low-income regions.
 
 <a href="https://calendar.google.com/calendar?cid=dXdjaGFuZ2VAZ21haWwuY29t">View in Google Calendar</a>
 
-<h2>Mailing List Archive</h2>
-
-View on <a href="https://www.mail-archive.com/change@change.washington.edu/">mail-archive.com</a>
+<h2>Mailing List</h2>
+Please subscribe to our <a
+href="https://changemm.cs.washington.edu/mailman/listinfo/change">
+mailing list </a>. View archives at <a href="https://www.mail-archive.com/change@change.washington.edu/">mail-archive.com</a>
 
 <!--
 <h2>Logo Download</h2>
