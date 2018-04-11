@@ -1,6 +1,7 @@
 ---
 layout: default
 background: img/papua.jpg
+title: participate
 ---
 
 <h2>Subscribe</h2>

@@ -1,6 +1,7 @@
 ---
 layout: default
 background: img/papua.jpg
+title: home
 ---
 
 Change is a cross-campus collaboration bringing together faculty and
