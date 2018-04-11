@@ -2,6 +2,7 @@
 layout: default
 background: img/papua.jpg
 title: people
+notitle: true
 ---
 
 <h3>Organizers</h3>
