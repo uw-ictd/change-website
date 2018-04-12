@@ -2,6 +2,7 @@
 layout: default
 background: img/papua.jpg
 title: participate
+notitle: true
 ---
 
 <h2>Subscribe</h2>
