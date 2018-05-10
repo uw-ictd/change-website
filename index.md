@@ -75,7 +75,7 @@ lives of underserved populations in low-income regions.
 
 <h2>Mailing List</h2>
 Please subscribe to our <a
-href="https://changemm.cs.washington.edu/mailman/listinfo/change">
+href="https://dubber.cs.washington.edu/mailman/listinfo/change">
 mailing list</a>. View archives at <a href="https://www.mail-archive.com/change@change.washington.edu/">mail-archive.com</a>
 
 <!--
