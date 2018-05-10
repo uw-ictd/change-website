@@ -8,7 +8,7 @@ notitle: true
 <h2>Subscribe</h2>
 
 If you are interested in participating, please subscribe to our <a
-href="https://changemm.cs.washington.edu/mailman/listinfo/change">
+href="https://dubber.cs.washington.edu/mailman/listinfo/change">
 mailing list</a>.  It’s where the majority of our community
 participates and where you will see announcements for upcoming events.
 
