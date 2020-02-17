@@ -187,10 +187,6 @@ researchers:
         display_name: "Kushal Shah"
         webpage: "https://in.linkedin.com/in/kushalns5"
         affiliation: "iSchool"
-    matt_johnson:
-        display_name: "Matt Johnson"
-        webpage: "https://homes.cs.washington.edu/~matt9j/"
-        affiliation: "CSE"
     esther_jang:
         display_name: "Esther Jang"
         webpage: "https://homes.cs.washington.edu/~infrared/"
@@ -344,6 +340,10 @@ alumni:
     heather_underwood:
          display_name: "Heather Underwood"
          affiliation: "CSE"
+    matt_johnson:
+        display_name: "Matt Johnson"
+        webpage: "https://homes.cs.washington.edu/~matt9j/"
+        affiliation: "CSE"
 
 in_memory:
     gaetano_borriello:
