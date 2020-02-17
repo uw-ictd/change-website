@@ -163,30 +163,10 @@ researchers:
     waylon_brunette:
         display_name: "Waylon Brunette"
         affiliation: "CSE"
-    fahad_pervaiz:
-        display_name: "Fahad Pervaiz"
-        webpage: "https://homes.cs.washington.edu/~fahadp/"
-        affiliation: "CSE"
-    sam_castle:
-        display_name: "Sam Castle"
-        webpage: "http://samcastle.com/"
-        affiliation: "CSE"
     samia_ibtasam:
         display_name: "Samia Ibtasam"
         webpage: "http://samiaibtasam.com/"
         affiliation: "CSE"
-    aditya_vashistha:
-        display_name: "Aditya Vashistha"
-        webpage: "http://www.adityavashistha.com/"
-        affiliation: "CSE"
-    trevor_perrier:
-        display_name: "Trevor Perrier"
-        webpage: "http://homes.cs.washington.edu/~tperrier/"
-        affiliation: "CSE"
-    kushal_shah:
-        display_name: "Kushal Shah"
-        webpage: "https://in.linkedin.com/in/kushalns5"
-        affiliation: "iSchool"
     esther_jang:
         display_name: "Esther Jang"
         webpage: "https://homes.cs.washington.edu/~infrared/"
@@ -199,6 +179,30 @@ researchers:
         affiliation: "CSE"
 
 alumni:
+    aditya_vashistha:
+        display_name: "Aditya Vashistha"
+        webpage: "http://www.adityavashistha.com/"
+        affiliation: "CSE"
+    trevor_perrier:
+        display_name: "Trevor Perrier"
+        webpage: "http://homes.cs.washington.edu/~tperrier/"
+        affiliation: "CSE"
+    kushal_shah:
+        display_name: "Kushal Shah"
+        webpage: "https://in.linkedin.com/in/kushalns5"
+        affiliation: "iSchool"
+    fahad_pervaiz:
+        display_name: "Fahad Pervaiz"
+        webpage: "https://homes.cs.washington.edu/~fahadp/"
+        affiliation: "CSE"
+    sam_castle:
+        display_name: "Sam Castle"
+        webpage: "http://samcastle.com/"
+        affiliation: "CSE"
+    matt_johnson:
+        display_name: "Matt Johnson"
+        webpage: "https://homes.cs.washington.edu/~matt9j/"
+        affiliation: "CSE"
     rohit_chaudhri:
         display_name: "Rohit Chaudhri"
         affiliation: "CSE"
@@ -340,10 +344,6 @@ alumni:
     heather_underwood:
          display_name: "Heather Underwood"
          affiliation: "CSE"
-    matt_johnson:
-        display_name: "Matt Johnson"
-        webpage: "https://homes.cs.washington.edu/~matt9j/"
-        affiliation: "CSE"
 
 in_memory:
     gaetano_borriello:
