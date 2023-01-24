@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Academic</title>
-    <link>https://example.com/event/</link>
-      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <title>Recent &amp; Upcoming Talks | UW Change Seminar</title>
+    <link>https://change.washington.edu/event/</link>
+      <atom:link href="https://change.washington.edu/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Mar 2023 12:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hua8a40db78945c7b06c34b1bdf9c03a23_49191_300x300_fit_lanczos_3.png</url>
+      <url>https://change.washington.edu/media/logo_hua8a40db78945c7b06c34b1bdf9c03a23_49191_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://example.com/event/</link>
+      <link>https://change.washington.edu/event/</link>
     </image>
     
     <item>
       <title>An African Perspective to Regulating Self-Driving Cars</title>
-      <link>https://example.com/talk/an-african-perspective-to-regulating-self-driving-cars/</link>
+      <link>https://change.washington.edu/talk/an-african-perspective-to-regulating-self-driving-cars/</link>
       <pubDate>Tue, 07 Mar 2023 12:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/an-african-perspective-to-regulating-self-driving-cars/</guid>
+      <guid>https://change.washington.edu/talk/an-african-perspective-to-regulating-self-driving-cars/</guid>
       <description>&lt;!--(
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -43,9 +43,9 @@ Jake Okechukwu Effoduh is a Vanier Scholar at the Osgoode Hall Law School, condu
     
     <item>
       <title>Computational prosthetics for a wounded body politic: designing for generative justice </title>
-      <link>https://example.com/talk/computational-prosthetics-for-a-wounded-body-politic-designing-for-generative-justice/</link>
+      <link>https://change.washington.edu/talk/computational-prosthetics-for-a-wounded-body-politic-designing-for-generative-justice/</link>
       <pubDate>Tue, 28 Feb 2023 12:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/computational-prosthetics-for-a-wounded-body-politic-designing-for-generative-justice/</guid>
+      <guid>https://change.washington.edu/talk/computational-prosthetics-for-a-wounded-body-politic-designing-for-generative-justice/</guid>
       <description>&lt;!--(
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -69,9 +69,9 @@ Dr. Ron Eglash is a Professor in the School of Information at University of Mich
     
     <item>
       <title>Beyond Fact-Checking: Exploring The Reach of Current and Future Efforts to Counter Misinformation in the Global South</title>
-      <link>https://example.com/talk/beyond-fact-checking-exploring-the-reach-of-current-and-future-efforts-to-counter-misinformation-in-the-global-south/</link>
+      <link>https://change.washington.edu/talk/beyond-fact-checking-exploring-the-reach-of-current-and-future-efforts-to-counter-misinformation-in-the-global-south/</link>
       <pubDate>Tue, 21 Feb 2023 12:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/beyond-fact-checking-exploring-the-reach-of-current-and-future-efforts-to-counter-misinformation-in-the-global-south/</guid>
+      <guid>https://change.washington.edu/talk/beyond-fact-checking-exploring-the-reach-of-current-and-future-efforts-to-counter-misinformation-in-the-global-south/</guid>
       <description>&lt;!--(
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -94,9 +94,9 @@ Dr. Ron Eglash is a Professor in the School of Information at University of Mich
     
     <item>
       <title>Using Smart Home Technologies to Support Domestic Activities in the Global South</title>
-      <link>https://example.com/talk/using-smart-home-technologies-to-support-domestic-activities-in-the-global-south/</link>
+      <link>https://change.washington.edu/talk/using-smart-home-technologies-to-support-domestic-activities-in-the-global-south/</link>
       <pubDate>Tue, 07 Feb 2023 12:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/using-smart-home-technologies-to-support-domestic-activities-in-the-global-south/</guid>
+      <guid>https://change.washington.edu/talk/using-smart-home-technologies-to-support-domestic-activities-in-the-global-south/</guid>
       <description>&lt;!--(
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -123,9 +123,9 @@ George Hope Chidziwisano is a Presidential Postdoctoral Fellow in the Human Comp
     
     <item>
       <title>Reimagining Human-Centered Design: Considering Reflexivity, Speculation and Long-term Engagement in ICTD</title>
-      <link>https://example.com/talk/reimagining-human-centered-design-considering-reflexivity-speculation-and-long-term-engagement-in-ictd/</link>
+      <link>https://change.washington.edu/talk/reimagining-human-centered-design-considering-reflexivity-speculation-and-long-term-engagement-in-ictd/</link>
       <pubDate>Tue, 31 Jan 2023 12:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/reimagining-human-centered-design-considering-reflexivity-speculation-and-long-term-engagement-in-ictd/</guid>
+      <guid>https://change.washington.edu/talk/reimagining-human-centered-design-considering-reflexivity-speculation-and-long-term-engagement-in-ictd/</guid>
       <description>&lt;!--(
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -150,9 +150,9 @@ Susan Wyche is an Associate Professor in the Department of Media and Information
     
     <item>
       <title>Boring Utilities Don&#39;t Exist: Community networks and the long term maintenance of equitable infrastructure</title>
-      <link>https://example.com/talk/boring-utilities-dont-exist-community-networks-and-the-long-term-maintenance-of-equitable-infrastructure/</link>
+      <link>https://change.washington.edu/talk/boring-utilities-dont-exist-community-networks-and-the-long-term-maintenance-of-equitable-infrastructure/</link>
       <pubDate>Tue, 24 Jan 2023 12:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/boring-utilities-dont-exist-community-networks-and-the-long-term-maintenance-of-equitable-infrastructure/</guid>
+      <guid>https://change.washington.edu/talk/boring-utilities-dont-exist-community-networks-and-the-long-term-maintenance-of-equitable-infrastructure/</guid>
       <description>&lt;!--(
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -168,16 +168,17 @@ Susan Wyche is an Associate Professor in the Department of Media and Information
 &lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;: &lt;a href=&#34;https://washington.zoom.us/j/93100061611&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/93100061611&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
-&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
+Rob Johnson, 31 started his professional life as an electrical engineer for New York&amp;rsquo;s MTA and has gradually found his way into the world of public policy and broadband. He currently works for the NY State Broadband office and volunteers with NYC Mesh. He also enjoys local politics, riding trains, singing, running, and climbing on rooftops.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;www.google.com&#34;&gt;Talk Recording&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Visualizing global health data for epistemic justice</title>
-      <link>https://example.com/talk/visualizing-global-health-data-for-epistemic-justice/</link>
+      <link>https://change.washington.edu/talk/visualizing-global-health-data-for-epistemic-justice/</link>
       <pubDate>Tue, 17 Jan 2023 12:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/visualizing-global-health-data-for-epistemic-justice/</guid>
+      <guid>https://change.washington.edu/talk/visualizing-global-health-data-for-epistemic-justice/</guid>
       <description>&lt;!--(
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
