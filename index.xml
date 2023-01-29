@@ -149,8 +149,10 @@ George Hope Chidziwisano is a Presidential Postdoctoral Fellow in the Human Comp
 --&gt;
 &lt;p&gt;&lt;strong&gt;Resources for Attendees&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.susanwyche.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; https://www.susanwyche.com/&lt;/a&gt;
-&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.susanwyche.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; https://www.susanwyche.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;: &lt;a href=&#34;https://washington.zoom.us/j/93100061611&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/93100061611&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
@@ -399,7 +401,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-781462593&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-712943865&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -409,7 +411,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-781462593&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-712943865&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
