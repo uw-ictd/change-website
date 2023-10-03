@@ -25,6 +25,32 @@
     </item>
     
     <item>
+      <title>20 Years of ICTD Research at UW CSE</title>
+      <link>https://change.washington.edu/talk/20-years-of-ictd-research-at-uw-cse/</link>
+      <pubDate>Tue, 03 Oct 2023 12:00:00 +0000</pubDate>
+      <guid>https://change.washington.edu/talk/20-years-of-ictd-research-at-uw-cse/</guid>
+      <description>&lt;!--(
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+)
+--&gt;
+&lt;p&gt;&lt;strong&gt;Resources for Attendees&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;: &lt;a href=&#34;https://washington.zoom.us/j/95254816636&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/95254816636&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
+&lt;br&gt;
+Richard Anderson is a Professor of Computer Science and Engineering, where he has been on the faculty since 1986, with brief leaves to Indian Institute of Science, Microsoft Research, and PATH. His research has focused on computing for the developing world since 2005, when he became involved with the Digital Study Hall project. In 2009, Richard spent a sabbatical year working with the Digital Health Solutions group at PATH, a global health NGO based in Seattle. This opportunity allowed him to increase his efforts on applying computing technologies to challenges in global health. While working with PATH, he co-founded the Projecting Health project, which used the Community-Led Video Education model to promote healthy practices in rural areas in India.  His research interests in ICTD include technologies for behavior change communication, improving tools to support the use of data in strengthening health systems, and digital financial services.  In 2020 he received the ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics for contributions bridging the fields of computer science, education, and global health.
+&lt;strong&gt;&lt;a href=&#34;www.google.com&#34;&gt;Talk Recording&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An African Perspective to Regulating Self-Driving Cars</title>
       <link>https://change.washington.edu/talk/an-african-perspective-to-regulating-self-driving-cars/</link>
       <pubDate>Tue, 07 Mar 2023 12:00:00 +0000</pubDate>
@@ -427,7 +453,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-958647213&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-921347568&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -437,7 +463,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-958647213&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-921347568&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
