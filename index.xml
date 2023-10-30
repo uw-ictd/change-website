@@ -64,6 +64,7 @@ Richard Anderson is a Professor of Computer Science and Engineering, where he ha
 &lt;/div&gt;
 )
 --&gt;
+&lt;p&gt;&lt;strong&gt;Talk Recorded&lt;/strong&gt;: Yes (&lt;a href=&#34;https://drive.google.com/file/d/1Mgi-hw3z2FIOZhTdXDTY7EwKkJOq6wLF/view?usp=drive_link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to recording&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Resources for Attendees&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -72,7 +73,6 @@ Richard Anderson is a Professor of Computer Science and Engineering, where he ha
 &lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
 &lt;br&gt;
 Richard Anderson is a Professor of Computer Science and Engineering, where he has been on the faculty since 1986, with brief leaves to Indian Institute of Science, Microsoft Research, and PATH. His research has focused on computing for the developing world since 2005, when he became involved with the Digital Study Hall project. In 2009, Richard spent a sabbatical year working with the Digital Health Solutions group at PATH, a global health NGO based in Seattle. This opportunity allowed him to increase his efforts on applying computing technologies to challenges in global health. While working with PATH, he co-founded the Projecting Health project, which used the Community-Led Video Education model to promote healthy practices in rural areas in India.  His research interests in ICTD include technologies for behavior change communication, improving tools to support the use of data in strengthening health systems, and digital financial services.  In 2020 he received the ACM Eugene L. Lawler Award for Humanitarian Contributions within Computer Science and Informatics for contributions bridging the fields of computer science, education, and global health.&lt;/p&gt;
-&lt;p&gt;**&lt;a href=&#34;**https://drive.google.com/file/d/1Mgi-hw3z2FIOZhTdXDTY7EwKkJOq6wLF/view?usp=drive_link&#34;&gt;Talk Recording&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -479,7 +479,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-852491736&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-532718694&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -489,7 +489,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-852491736&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-532718694&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
