@@ -64,7 +64,7 @@ Richard Anderson is a Professor of Computer Science and Engineering, where he ha
 &lt;/div&gt;
 )
 --&gt;
-&lt;p&gt;&lt;strong&gt;Talk Recorded&lt;/strong&gt;: Yes (&lt;a href=&#34;https://drive.google.com/file/d/1Mgi-hw3z2FIOZhTdXDTY7EwKkJOq6wLF/view?usp=drive_link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to recording&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Talk Recorded&lt;/strong&gt;: Yes (&lt;a href=&#34;https://drive.google.com/file/d/1RADxdq3nhIa784yGXw_4aRSjEz6WqikB/view?usp=drive_link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to recording&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Resources for Attendees&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -479,7 +479,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-927461538&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-368291574&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -489,7 +489,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-927461538&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-368291574&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
