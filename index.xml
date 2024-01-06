@@ -25,6 +25,32 @@
     </item>
     
     <item>
+      <title>Anticolonial, Participatory, and Speculative Futures for ICTD: A Research Agenda</title>
+      <link>https://change.washington.edu/talk/anticolonial-participatory-and-speculative-futures-for-ictd-a-research-agenda/</link>
+      <pubDate>Tue, 09 Jan 2024 12:00:00 +0000</pubDate>
+      <guid>https://change.washington.edu/talk/anticolonial-participatory-and-speculative-futures-for-ictd-a-research-agenda/</guid>
+      <description>&lt;!--(
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+)
+--&gt;
+&lt;p&gt;&lt;strong&gt;Resources for Attendees&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;: &lt;a href=&#34;https://washington.zoom.us/j/95254816636&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/95254816636&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
+&lt;br&gt;
+Jason Young is a Senior Research Scientist at the University of Washington Information School, where he also directs the Technology &amp;amp; Social Change Group (TASCHA). His research explores the politics that shape what forms of knowledge come to matter within different socio-cultural contexts, with an emphasis on the role of technological practice in shaping these epistemic politics. His research asks, for example, how the use of information &amp;amp; communication technologies (ICTs) are re-shaping colonial hierarchies between Indigenous and Western knowledge systems, and how socio-cultural and emotional dynamics produce vulnerabilities and attachments to misinformation. His projects strongly emphasize community-based, participatory approaches with applied goals, but are also inspired by and draw from a broad range of postcolonial, feminist, and critical theories. He received his PhD from the University of Washington Department of Geography in 2017.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Talk Recording&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Public Interest Computing: Pluralistic Design of Ethically Responsible AI and Policy</title>
       <link>https://change.washington.edu/talk/public-interest-computing-pluralistic-design-of-ethically-responsible-ai-and-policy/</link>
       <pubDate>Tue, 28 Nov 2023 12:00:00 +0000</pubDate>
@@ -636,7 +662,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-561749832&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-983476152&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -646,7 +672,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-561749832&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-983476152&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
