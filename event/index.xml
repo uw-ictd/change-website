@@ -5,12 +5,32 @@
     <link>https://change.washington.edu/event/</link>
       <atom:link href="https://change.washington.edu/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jan 2024 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jan 2024 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://change.washington.edu/media/logo_huba025b7a8743106165fbcade43568e72_15589_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://change.washington.edu/event/</link>
     </image>
+    
+    <item>
+      <title>Rethinking AI Innovation in the Public Sector through the Lens of Repair Work</title>
+      <link>https://change.washington.edu/talk/rethinking-ai-innovation-in-the-public-sector-through-the-lens-of-repair-work/</link>
+      <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+      <guid>https://change.washington.edu/talk/rethinking-ai-innovation-in-the-public-sector-through-the-lens-of-repair-work/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resources for Attendees&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3616473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/abs/10.1145/3616473&lt;/a&gt;, &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3544548.3581308&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/abs/10.1145/3544548.3581308&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;: &lt;a href=&#34;https://washington.zoom.us/j/91639643408&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/91639643408&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
+&lt;br&gt;
+Devansh Saxena is a Presidential Postdoctoral Fellow at Carnegie Mellon University and will be joining the Information School at the University of Wisconsin-Madison as an Assistant Professor in Fall 2024. He studies sociotechnical practices of decision-making in high-stakes domains and the social impacts of introducing AI in such domains. His work examines how human-AI interaction plays out in practice where decisions are mediated by organizational constraints, nuances of professional practice, and algorithmic decision-making. He is interested in developing new methods and tools that support AI innovation at the earliest stages of ideation, problem formulation, and project selection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Talk Recording&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Human-Centered Implementation Science and Implementation-Centered HCI</title>
@@ -494,14 +514,6 @@ Rob Johnson, 31 started his professional life as an electrical engineer for New 
 Tricia is a PhD student in the Department of Human Centered Design and Engineering (HCDE) at University of Washington. Prior to joining HCDE, Tricia worked in global health for over ten years after receiving her Master of Science in Public Health in International Health/Health Systems from Johns Hopkins School of Public Health (JHSPH). She is interested in applications of human centered design in global health including ethical data visualization and storytelling for decision-making in low- and middle-income countries (LMICs). She has pioneered research in global health data data visualization preferences and sensemaking among LMIC decision-makers and usability studies. She has trained over 1000 individuals on visualizing global health data based on contextual needs. She has faculty affiliation with JHSPH and is a consultant for Gates Ventures&amp;rsquo; Exemplars in Global Health.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;www.google.com&#34;&gt;Talk Recording&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://change.washington.edu/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://change.washington.edu/talk/</guid>
-      <description></description>
     </item>
     
   </channel>

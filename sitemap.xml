@@ -5,11 +5,15 @@
     <loc>https://change.washington.edu/home/hero/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://change.washington.edu/talk/human-centered-implementation-science-and-implementation-centered-hci/</loc>
-    <lastmod>2024-01-16T12:00:00+00:00</lastmod>
+    <loc>https://change.washington.edu/event/</loc>
+    <lastmod>2024-01-30T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://change.washington.edu/event/</loc>
+    <loc>https://change.washington.edu/talk/rethinking-ai-innovation-in-the-public-sector-through-the-lens-of-repair-work/</loc>
+    <lastmod>2024-01-30T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://change.washington.edu/talk/human-centered-implementation-science-and-implementation-centered-hci/</loc>
     <lastmod>2024-01-16T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -194,9 +198,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://change.washington.edu/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://change.washington.edu/talk/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://change.washington.edu/home/</loc>
