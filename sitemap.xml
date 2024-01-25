@@ -196,6 +196,9 @@
     <loc>https://change.washington.edu/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://change.washington.edu/talk/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://change.washington.edu/home/</loc>
     <changefreq>weekly</changefreq>
   </url>
