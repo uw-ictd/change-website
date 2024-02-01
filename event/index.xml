@@ -5,12 +5,35 @@
     <link>https://change.washington.edu/event/</link>
       <atom:link href="https://change.washington.edu/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jan 2024 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Feb 2024 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://change.washington.edu/media/logo_huba025b7a8743106165fbcade43568e72_15589_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://change.washington.edu/event/</link>
     </image>
+    
+    <item>
+      <title>Evaluating Mobile Banking Application Security Posture Using the OWASP’s MASVS Framework</title>
+      <link>https://change.washington.edu/talk/evaluating-mobile-banking-application-security-posture-using-the-owasps-masvs-framework/</link>
+      <pubDate>Tue, 06 Feb 2024 12:00:00 +0000</pubDate>
+      <guid>https://change.washington.edu/talk/evaluating-mobile-banking-application-security-posture-using-the-owasps-masvs-framework/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resources for Attendees&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3588001.3609367&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/abs/10.1145/3588001.3609367&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;: &lt;a href=&#34;https://washington.zoom.us/j/91639643408&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/91639643408&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
+&lt;br&gt;
+Trevor Henry Chiboora is a dynamic Cyber Security Specialist based in Kigali, Rwanda, with a strong educational background and practical experience. He currently serves as a Research Associate at CyLab Africa, where he works on the VAPTs (Vulnerability Assessment and Penetration Testing) project. In this role, he conducts research related to cybersecurity and specializes in performing Pentests on mobile and web applications. Notably, he played a key role in deploying a state-of-the-art Security Operations Center (SOC) using Elastic Security, MISP, and other integrations. Trevor is dedicated to enhancing the security of cyberspace to protect user&amp;rsquo;s sensitive information and build trust in the online environment.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About Upanzi Network&lt;/b&gt;
+&lt;br&gt;
+Upanzi is an Africa-based network of technology research labs that is working towards a secure and resilient digital transformation of the continent. The network focuses on creating, testing, innovating, and assisting in implementing digital technologies at scale such as identity, payments, cybersecurity, cloud computing, data governance, artificial intelligence, and machine learning, and influencing technology policy recommendations to support low- and middle-income countries. Upanzi is led by Carnegie Mellon University Africa and leverages the strengths of the African Engineering and Technology (Afretec) network. Afretec members include Carnegie Mellon University Africa, the American University in Cairo, the University of Lagos, the University of Nairobi, the University of Rwanda, and the University of the Witwatersrand. Launched in September 2022, the Upanzi is funded by the Bill &amp;amp; Melinda Gates Foundation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Talk Recording&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Rethinking AI Innovation in the Public Sector through the Lens of Repair Work</title>
