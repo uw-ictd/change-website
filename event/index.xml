@@ -5,12 +5,28 @@
     <link>https://change.washington.edu/event/</link>
       <atom:link href="https://change.washington.edu/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Feb 2024 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Feb 2024 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://change.washington.edu/media/logo_huba025b7a8743106165fbcade43568e72_15589_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://change.washington.edu/event/</link>
     </image>
+    
+    <item>
+      <title>Designing Persona-Fluid Voice User Interfaces</title>
+      <link>https://change.washington.edu/talk/designing-persona-fluid-voice-user-interfaces/</link>
+      <pubDate>Tue, 13 Feb 2024 12:00:00 +0000</pubDate>
+      <guid>https://change.washington.edu/talk/designing-persona-fluid-voice-user-interfaces/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;: &lt;a href=&#34;https://washington.zoom.us/j/91639643408&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/91639643408&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
+&lt;br&gt;
+Smit Desai is a Ph.D. candidate in the School of Information Sciences at the University of Illinois, Urbana-Champaign. His primary research focus centers around comprehending the mental models of users as they engage with conversational agents, utilizing innovative research techniques such as metaphor analysis. He leverages this valuable insight to advance the development of conversational agents in diverse social roles, including educators and storytellers. Smit is a Provocation Papers Co-Chair at the upcoming ACM CUI 2024 conference in Luxembourg. His research has yielded publications in esteemed HCI forums like CHI, TOCHI, CSCW, and CUI.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Talk Recording&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Evaluating Mobile Banking Application Security Posture Using the OWASP’s MASVS Framework</title>
