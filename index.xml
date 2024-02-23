@@ -25,6 +25,23 @@
     </item>
     
     <item>
+      <title>The Impact of AI on the Internet</title>
+      <link>https://change.washington.edu/talk/the-impact-of-ai-on-the-internet/</link>
+      <pubDate>Tue, 27 Feb 2024 12:00:00 +0000</pubDate>
+      <guid>https://change.washington.edu/talk/the-impact-of-ai-on-the-internet/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resource for Attendee&lt;/strong&gt;: Read this blog by my colleague Angie Orejuela: &lt;a href=&#34;https://digitalmedusa.org/the-overlooked-connection-internet-governance-and-artificial-intelligence/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://digitalmedusa.org/the-overlooked-connection-internet-governance-and-artificial-intelligence/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;: &lt;a href=&#34;https://washington.zoom.us/j/91639643408&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/91639643408&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
+&lt;br&gt;
+Dr. Badiei is the founder of Digital Medusa, an initiative that focuses on protecting the core values of our global digital space with sound governance. For over a decade, Dr. Badiei has directed and helped lead projects related to Digital Trust and Safety, Internet governance and social media governance. She has undertaken research at Yale Law School, Georgia Institute of Technology and the Humboldt Institute for Internet and Society in Berlin. Dr. Badiei received her PhD in law from the University of Hamburg, Institute of Law and Economics. Between 2011 and 2014, she worked at the United Nations Internet Governance Forum Secretariat.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Talk Recording&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Designing Persona-Fluid Voice User Interfaces</title>
       <link>https://change.washington.edu/talk/designing-persona-fluid-voice-user-interfaces/</link>
       <pubDate>Tue, 13 Feb 2024 12:00:00 +0000</pubDate>
@@ -751,7 +768,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-179423865&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-354697182&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -761,7 +778,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-179423865&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-354697182&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
