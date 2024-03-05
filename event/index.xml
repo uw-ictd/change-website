@@ -5,12 +5,29 @@
     <link>https://change.washington.edu/event/</link>
       <atom:link href="https://change.washington.edu/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Feb 2024 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2024 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://change.washington.edu/media/logo_huba025b7a8743106165fbcade43568e72_15589_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://change.washington.edu/event/</link>
     </image>
+    
+    <item>
+      <title>Shishushurokkha: A transformative justice approach for combating child sexual abuse in Bangladesh</title>
+      <link>https://change.washington.edu/talk/shishushurokkha-a-transformative-justice-approach-for-combating-child-sexual-abuse-in-bangladesh/</link>
+      <pubDate>Tue, 05 Mar 2024 12:00:00 +0000</pubDate>
+      <guid>https://change.washington.edu/talk/shishushurokkha-a-transformative-justice-approach-for-combating-child-sexual-abuse-in-bangladesh/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resource for Attendee&lt;/strong&gt;: None&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;: &lt;a href=&#34;https://washington.zoom.us/j/91639643408&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/91639643408&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
+&lt;br&gt;
+Sharifa is an Assistant Professor in Computer Science at UIUC. Her areas of expertise lie at the intersection of Human-Computer Interaction (HCI) and Information and Communication Technologies for Development (ICTD), a growing area of study that focuses on the interplay between global development and technologies. Sharifa’s research focuses on studying and building computing technologies for recognizing the identities and values of and justice with marginalized communities. She deploys a variety of qualitative, quantitative, and design methodologies to probe and address social justice agendas in low-resource, marginalized communities. She has conducted several long-term ethnographic field studies in Bangladesh to reveal the challenges that rural populations and minorities face, and built computing technologies to improve the quality of their lives. She employs critical social science theories in building computing systems that relate to understanding and overcoming the challenges of marginalization, oppression, and injustice. She has published the results of her work at top-tier conferences such as ACM CHI, ACM CSCW, and ACM ICTD. Her work has received a best paper award, a best paper honorable mention, and a diversity and inclusion recognition. She is a recipient of the Facebook Fellowship, and she won multiple grants on collaborative projects funded by Meta and the Bangladesh ICT Ministry.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Talk Recording&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Impact of AI on the Internet</title>
