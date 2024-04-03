@@ -25,6 +25,23 @@
     </item>
     
     <item>
+      <title>Culturally (Un)Aware AI</title>
+      <link>https://change.washington.edu/talk/culturally-unaware-ai/</link>
+      <pubDate>Tue, 09 Apr 2024 12:00:00 +0000</pubDate>
+      <guid>https://change.washington.edu/talk/culturally-unaware-ai/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resource for Attendee&lt;/strong&gt;: None&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;: &lt;a href=&#34;https://washington.zoom.us/j/91639643408&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/91639643408&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
+&lt;br&gt;
+Dhruv Agarwal is a second-year Ph.D. student at Cornell University advised by Aditya Vashistha. He is a mixed-methods researcher working on Culturally Aware AI and has looked at this problem from various lenses ranging from explainable AI to online harmful content. He has won paper awards at CSCW and COMPASS and is an inaugural Quad Fellow. Born and brought up in India, he graduated magna cum laude in Computer Science from Ashoka University, India, and then spent two years at Microsoft Research India working on air pollution. He is passionate about the real-world impact of research and hopes to bridge the technological disparity in society. Outside work, Dhruv is an avid sportsperson and has played tennis, squash, and soccer competitively.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Talk Recording&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Towards Addressing Ableism on Social Media</title>
       <link>https://change.washington.edu/talk/towards-addressing-ableism-on-social-media/</link>
       <pubDate>Tue, 02 Apr 2024 12:00:00 +0000</pubDate>
@@ -32,7 +49,7 @@
       <description>&lt;p&gt;&lt;strong&gt;Resource for Attendee&lt;/strong&gt;: None&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;: &lt;a href=&#34;https://washington.zoom.us/j/91639643408&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/91639643408&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;:  &lt;a href=&#34;https://washington.zoom.us/j/9744652312&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://washington.zoom.us/j/9744652312&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
 &lt;br&gt;
@@ -794,7 +811,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-536149827&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-562813479&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -804,7 +821,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-536149827&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-562813479&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
