@@ -5,12 +5,31 @@
     <link>https://change.washington.edu/event/</link>
       <atom:link href="https://change.washington.edu/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Apr 2024 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2024 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://change.washington.edu/media/logo_huba025b7a8743106165fbcade43568e72_15589_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://change.washington.edu/event/</link>
     </image>
+    
+    <item>
+      <title>Building data-informed, people-centered solutions for a more fair and effective justice system</title>
+      <link>https://change.washington.edu/talk/building-data-informed-people-centered-solutions-for-a-more-fair-and-effective-justice-system/</link>
+      <pubDate>Tue, 30 Apr 2024 12:00:00 +0000</pubDate>
+      <guid>https://change.washington.edu/talk/building-data-informed-people-centered-solutions-for-a-more-fair-and-effective-justice-system/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resource for Attendee&lt;/strong&gt;: None&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seminar Details&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoom&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Presenter Bio&lt;/b&gt;
+&lt;br&gt;
+Jared Fishman (he/him) - Jared Fishman is committed to finding innovative solutions to the complex, social justice challenges of our times. He is the founder and executive director of Justice Innovation Lab. Prior to founding JIL, Jared served for 14 years as a federal prosecutor in the U.S. Department of Justice’s Civil Rights Division. He led some of America’s most complex civil rights prosecutions, securing convictions in high-profile cases involving police misconduct, hate crimes, and human trafficking. He is the author of Fire on the Levee: the Murder of Henry Glover and the Search for Justice After Hurricane Katrina. Jared serves as adjunct faculty at the George Washington University Law School and Georgetown University. His work and analysis have been featured on CNN, CBS, CBC, and in The New York Times and The Washington Post. Jared earned his law degree from the George Washington University Law School, and his bachelor’s degree from the University of Pennsylvania.&lt;/p&gt;
+&lt;p&gt;Joanie Weaver (she/her) - Joanie is a data engineer at the Justice Innovation Lab. In this role, she partners with District Attorney’s offices to help them clean and analyze their prosecution data to identify inefficiencies and racial disparities. Prior to her role at Justice Innovation Lab, Joanie received her Master’s in Information and Data Science from UC Berkeley, worked at Microsoft, and received a Bachelor of Science in Computer Science from MIT.&lt;/p&gt;
+&lt;p&gt;Justice Innovation Lab (JIL) - Justice Innovation Lab is an organization that builds data-informed, people-centered solutions for a more fair and effective justice system. Justice Innovation Lab helps communities across the U.S. identify and fix harmful outcomes in their criminal justice systems. JIL uses a collaborative, data-informed approach to identify and fix harmful outcomes in criminal justice systems across the US.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Talk Recording&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Culturally (Un)Aware AI</title>
